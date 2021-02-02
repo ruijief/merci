@@ -1,0 +1,8 @@
+prefix=/home/zzk/kai_ws/mercedes_ws/devel
+
+Name: mercedes
+Description: Description of mercedes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

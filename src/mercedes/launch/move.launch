@@ -1,0 +1,5 @@
+<launch>
+
+<node name="drive" pkg="mercedes" type="control.py" output="screen"/>
+
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+
+<node name="joycon" pkg="joy" type="joy_node"/>
+<node name="joy_to_vel" pkg="mercedes" type="Joy2vel_node"/>
+
+</launch>
